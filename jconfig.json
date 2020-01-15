@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "Shag Kernel for Bonito/Sargo",
+    "version": "r1",
+    "link": "https://github.com/shagbag913/shagbag913_releases/raw/master/shagkernel-b4s4-1579055891.zip",
+    "changelog_url": "https://raw.githubusercontent.com/shagbag913/shagbag913_releases/master/shagkernel-b4s4.md",
+    "date": "2020-01-14",
+    "sha1": "d7eab113055b757f64efe9615752f8dc1f9a4e1f"
+  },
+  "support": {
+    "link": ""
+  }
+}
